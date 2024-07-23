@@ -64,7 +64,7 @@ Develop a chat interface that leverages a Large Language Model (LLM) to read and
 
 ## Team Members 👥
 
-- **Prasad Sandeep Bujbal**  
+- **Prasad Sandeep Bhujbal**  
   [prasadbhujbal1407@gmail.com](mailto:prasadbhujbal1407@gmail.com) 📧
 - **Mrunal Vishnu Khanke**  
   [mrunalkhanke7@gmail.com](mailto:mrunalkhanke7@gmail.com) 📧
