@@ -1,4 +1,4 @@
-# QUERYFOX
+# QUERYFOX 🤖🦊
 ## AI-Powered Data Query Interface 🌐
 
 ## Problem Statement 📝
@@ -39,15 +39,13 @@ Develop a chat interface that leverages a Large Language Model (LLM) to read and
 3. **SQL Query Generation**: AI generates the corresponding SQL query.
 4. **Output Explanation**: The generated query is explained in detail.
 5. **Formatting and Learning**: Users can format their SQL queries and learn from the detailed explanations provided.
+   
+![image](https://github.com/user-attachments/assets/a43a4113-8ac5-44fe-8f22-32dbf2c73aa3)
+
 
 ## Tech Stack 🛠️
 
-- **Generative AI**: Google's Generative AI models for natural language processing and content generation.
-- **Programming Languages**: Python for backend logic and AI integration.
-- **Web Framework**: Streamlit for creating an interactive and user-friendly web interface.
-- **Environment Management**: `dotenv` for managing environment variables securely.
-- **API Integration**: Google Generative AI API for accessing AI capabilities.
-
+![image](https://github.com/user-attachments/assets/d0ef2f49-6782-42e8-ac8b-2f970d02883f)
 
 ## Efficiency Matrix 📈
 
@@ -64,7 +62,7 @@ Develop a chat interface that leverages a Large Language Model (LLM) to read and
 3. **Advanced Learning Modules**: Incorporating interactive SQL tutorials and practice modules.
 4. **User Feedback**: Implementing user feedback mechanisms to continuously improve QueryFox.
 
-## Team Members
+## Team Members 👥
 
 - **Prasad Sandeep Bujbal**  
   [prasadbhujbal1407@gmail.com](mailto:prasadbhujbal1407@gmail.com)
