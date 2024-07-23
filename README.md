@@ -7,7 +7,7 @@ Organizations often struggle with efficiently accessing and understanding client
 
 1. You can view the [PPT](https://drive.google.com/file/d/1eyEE80UMepWcoALIfbs7yi1i9p5_iIql/view?usp=sharing), 
 
-2. You can view [Demo video](https://drive.google.com/file/d/14pJkrwqsgavwiEQ7EdZuWYW_CDf_YTVZ/view?usp=sharing)
+2. You can view [Demo video](https://drive.google.com/file/d/1ZjLEXXqiNXdVHI5Lp_A4lW1tMI8rfi6d/view?usp=sharing)
    
 ## Objective 🎯
 
