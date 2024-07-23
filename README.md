@@ -27,18 +27,18 @@ Develop a chat interface that leverages a Large Language Model (LLM) to read and
 
 ### Key Features ✨
 
-- **Streamlined Data Access**: Provides an intuitive chat interface that simplifies accessing client data from internal databases.
-- **Efficient Data Retrieval**: Leverages an LLM to interpret natural language queries and generate precise SQL queries, eliminating traditional complexity.
-- **Enhanced Client Management**: Facilitates immediate and accurate data retrieval, improving client information management and satisfaction.
-- **User-Friendly Interface**: Allows interaction with the database through natural language commands, accessible to all organization members regardless of technical expertise.
+- **Streamlined Data Access**: Provides an intuitive chat interface that simplifies accessing client data from internal databases.  🗃️💬
+- **Efficient Data Retrieval**: Leverages an LLM to interpret natural language queries and generate precise SQL queries, eliminating traditional complexity.⚙️🔍
+- **Enhanced Client Management**: Facilitates immediate and accurate data retrieval, improving client information management and satisfaction.  📈👍
+- **User-Friendly Interface**: Allows interaction with the database through natural language commands, accessible to all organization members regardless of technical expertise. 🌐🙌
 
 ## Workflow 🔄
 
-1. **User Input**: User enters a natural language request.
-2. **AI Processing**: The request is processed by the Generative AI model.
-3. **SQL Query Generation**: AI generates the corresponding SQL query.
-4. **Output Explanation**: The generated query is explained in detail.
-5. **Formatting and Learning**: Users can format their SQL queries and learn from the detailed explanations provided.
+1. **User Input**: User enters a natural language request.🗣️
+2. **AI Processing**: The request is processed by the Generative AI model.🤖
+3. **SQL Query Generation**: AI generates the corresponding SQL query. 📝
+4. **Output Explanation**: The generated query is explained in detail. 📖
+5. **Formatting and Learning**: Users can format their SQL queries and learn from the detailed explanations provided. 🎓
    
 ![image](https://github.com/user-attachments/assets/a43a4113-8ac5-44fe-8f22-32dbf2c73aa3)
 
@@ -49,22 +49,22 @@ Develop a chat interface that leverages a Large Language Model (LLM) to read and
 
 ## Efficiency Matrix 📈
 
-- **Query Accuracy**: 95% accuracy in initial testing.
-- **Response Time**: Average response time for query generation is 2.3 seconds.
-- **User Satisfaction**: 89% user satisfaction based on surveys.
-- **Error Reduction**: 90% reduction in errors compared to manual SQL query generation.
-- **Time Savings**: 80% reduction in time spent on data retrieval tasks.
+- **Query Accuracy**: 95% accuracy in initial testing. ✅
+- **Response Time**: Average response time for query generation is 2.3 seconds. ⏱️
+- **User Satisfaction**: 89% user satisfaction based on surveys. 🎉
+- **Error Reduction**: 90% reduction in errors compared to manual SQL query generation. ❌➡️✔️
+- **Time Savings**: 80% reduction in time spent on data retrieval tasks. 🕒💰
 
 ## Future Scope 🚀
 
-1. **Enhanced AI Models**: Improving AI capabilities for more complex queries.
-2. **Database Integration**: Expanding support to various database management systems.
-3. **Advanced Learning Modules**: Incorporating interactive SQL tutorials and practice modules.
-4. **User Feedback**: Implementing user feedback mechanisms to continuously improve QueryFox.
+1. **Enhanced AI Models**: Improving AI capabilities for more complex queries. 🧠🔧
+2. **Database Integration**: Expanding support to various database management systems. 🗃️🌐
+3. **Advanced Learning Modules**: Incorporating interactive SQL tutorials and practice modules. 📚💻
+4. **User Feedback**: Implementing user feedback mechanisms to continuously improve QueryFox. 📣🔄
 
 ## Team Members 👥
 
 - **Prasad Sandeep Bujbal**  
-  [prasadbhujbal1407@gmail.com](mailto:prasadbhujbal1407@gmail.com)
+  [prasadbhujbal1407@gmail.com](mailto:prasadbhujbal1407@gmail.com) 📧
 - **Mrunal Vishnu Khanke**  
-  [mrunalkhanke7@gmail.com](mailto:mrunalkhanke7@gmail.com)
+  [mrunalkhanke7@gmail.com](mailto:mrunalkhanke7@gmail.com) 📧
