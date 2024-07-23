@@ -79,7 +79,7 @@ def query_explainer(model, sql_syntax):
 
 def main():
     model = configure()
-    st.set_page_config(page_title="GenQuery", page_icon="robot:")
+    st.set_page_config(page_title="QueryFox", page_icon="robot:")
 
     st.sidebar.title('Navigation')
     pages = st.sidebar.radio("Go to", ['About', 'SQL Query Generator', 'SQL Formatter', 'Query Explainer'])
@@ -88,10 +88,10 @@ def main():
         st.markdown(
             """
             <div style="text-align:center;">
-            <h1>GenQuery 🤖</h1>
+            <h1>QueryFox 🤖</h1>
             <h3>Your Personal SQL Query Assistant</h3>
-            <p> Welcome to GenQuery! Our project is your personal SQL query assistant powered by Google's Generative AI tools. 
-            With GenQuery, you can effortlessly generate SQL queries and receive detailed explanations, and also format your for readability and consistency. Let's simplifying your data retrieval process!</p>           
+            <p> Welcome to QueryFox! Our project is your personal SQL query assistant powered by Google's Generative AI tools. 
+            With QueryFox, you can effortlessly generate SQL queries and receive detailed explanations, and also format your for readability and consistency. Let's simplifying your data retrieval process!</p>           
             </div>
             """,
             unsafe_allow_html=True,
