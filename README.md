@@ -12,6 +12,16 @@ Develop a chat interface that leverages a Large Language Model (LLM) to read and
 
 **QueryFox** is designed to solve the issues related to inefficient data access, cumbersome data retrieval, and client management inefficiencies.
 
+
+## Screenshots of the application :
+<img width="169" height="340" alt="image" src="https://github.com/user-attachments/assets/df98680b-1272-421f-a21a-717a31e18ff3">
+<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/806096a0-6bfe-4f0e-9c73-11ec9dd73416">
+<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/778b5da5-542a-42be-87ab-3cc15a9c0407">
+<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/2cea50a4-6ad5-4464-adc9-048366a568b5">
+<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/3a3e3f81-a261-440f-a506-3f28ee07b025">
+<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/5fa9ee08-5776-4df4-9b39-f2298aa4d9ad">
+
+
 ### Key Features
 
 - **Streamlined Data Access**: Provides an intuitive chat interface that simplifies accessing client data from internal databases.
