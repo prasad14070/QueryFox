@@ -5,7 +5,7 @@
 
 Organizations often struggle with efficiently accessing and understanding client data stored in internal databases. Traditional methods of data retrieval and analysis can be time-consuming and cumbersome, leading to delays in decision-making and inefficiencies in client management. There is a need for a streamlined and intuitive solution that allows organization members to query and receive timely, accurate insights from the database through a user-friendly interface.
 
-1. You can view the [PPT](https://drive.google.com/file/d/1eyEE80UMepWcoALIfbs7yi1i9p5_iIql/view?usp=sharing), 
+1. You can view the [PPT](https://drive.google.com/file/d/13nuFAN9KED6-Q8k_Hfwr503xtfG5E2sy/view?usp=sharing), 
 
 2. You can view [Demo video](https://drive.google.com/file/d/1ZjLEXXqiNXdVHI5Lp_A4lW1tMI8rfi6d/view?usp=sharing)
    
